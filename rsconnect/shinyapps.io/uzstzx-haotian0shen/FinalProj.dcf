@@ -1,0 +1,14 @@
+name: FinalProj
+title: FinalProj
+username:
+account: uzstzx-haotian0shen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7803685
+bundleId: 6588023
+url: https://haotianshen.shinyapps.io/FinalProj/
+when: 1670124106.2653
+lastSyncTime: 1670124106.26531
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: solution.csv|test.csv
